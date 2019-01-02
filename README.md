@@ -1,1 +1,2 @@
 ijkplayer播放影片的測試
+streaming變數需先填入rtmp影片的位址
